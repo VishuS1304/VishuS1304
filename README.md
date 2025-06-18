@@ -1,4 +1,8 @@
-[![MasterHead](https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg)](https://VishuS1304.io)
+<p align="center">
+  <a href="https://VishuS1304.io">
+    <img src="https://github.com/VishuS1304/VishuS1304/blob/main/github-header-image.png" alt="MasterHead">
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm Vishwajit Singh</h1>
 <h3 align="center">A passionate AI/ML Developer from India</h3>
 
