@@ -8,21 +8,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **A scalable, containerized AI Email Classifier & Responder using LLaMA 3 & LangChain for enterprise support automation.**
+- 🔭 I’m currently working on **a scalable, containerized AI Email Classifier & Responder using LLaMA 3 & LangChain for enterprise support automation.**
 
-- 🌱 I’m currently learning **Reinforcement Learning, Quantize a trained model with TensorRT, Computer Vision Advances, NVIDIA/TensorRT quickstart & etc**
+- 🌱 I’m currently learning **Reinforcement Learning, Quantize a trained model with TensorRT, Computer Vision Advances, NVIDIA/TensorRT quickstart & etc.**
 
 - 👯 I’m looking to collaborate on **Open‑source computer vision and NLP projects, especially those integrating YOLOv8 and Large Language Models.**
 
-- 🤝 I’m looking for help with **Deploying real‑time AI pipelines in Kubernetes and optimizing inference on edge devices.**
+- 🤝 I’m looking for help with **Deploying real‑time AI pipelines in Docker and optimizing inference on edge devices.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VishuS1304](https://github.com/VishuS1304)
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/VishuS1304)
 
-- 💬 Ask me about **AI, ML, DL, YOLO, OpenCV, LLMs, RAG, building Streamlit apps & etc**
+- 💬 Ask me about **AI, ML, DL, YOLO, OpenCV, LLMs, RAG, building, deploy models apps & etc.**
 
 - 📫 How to reach me **vishwajitsingh1304@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T6Lon3jRM_TbNVnepIEeGrYWpl4eHAjd/view?usp=drive_link](https://drive.google.com/file/d/1T6Lon3jRM_TbNVnepIEeGrYWpl4eHAjd/view?usp=drive_link)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1T6Lon3jRM_TbNVnepIEeGrYWpl4eHAjd/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Coder**
 
