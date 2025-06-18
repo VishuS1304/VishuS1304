@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/VishuS1304)
 
-- 💬 Ask me about **AI, ML, DL, YOLO, OpenCV, LLMs, RAG, building, deploy models apps & etc.**
+- 💬 Ask me about **AI, ML, DL, YOLO, OpenCV, LLMs, RAG, building, deploying models, & etc.**
 
 - 📫 How to reach me **vishwajitsingh1304@gmail.com**
 
