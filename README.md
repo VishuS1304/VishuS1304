@@ -16,6 +16,8 @@
 
 - 🤝 I’m looking for help with **Deploying real‑time AI pipelines in Docker and optimizing inference on edge devices.**
 
+- 📄 Do check out my portfolio [PORTFOLIO](https://vishus1304.github.io/My_Portfolio/)
+
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/VishuS1304)
 
 - 💬 Ask me about **AI, ML, DL, YOLO, OpenCV, LLMs, RAG, building, deploying models, & etc.**
